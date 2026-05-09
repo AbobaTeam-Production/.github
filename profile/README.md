@@ -18,7 +18,6 @@ Synchronous group movie watching: shared player, voice chat without echo, real-t
 | **[junto-frontend](https://github.com/AbobaTeam-Production/junto-frontend)** | Mobile / desktop / web client | Flutter |
 | **[junto-backend](https://github.com/AbobaTeam-Production/junto-backend)** | API + WebSocket + media pipeline | Django, Daphne, Celery, Postgres, Redis, LiveKit |
 | **[junto-landing](https://github.com/AbobaTeam-Production/junto-landing)** | Marketing site (`juntoapp.tech`) | Static HTML, GitHub Pages |
-| **[Junto](https://github.com/AbobaTeam-Production/Junto)** | Cross-repo project board / overview | — |
 
 ## Downloads
 
